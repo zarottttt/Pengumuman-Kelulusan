@@ -1,0 +1,3 @@
+NISN,Nama,Status
+1234567890,Budi Santoso,Lulus
+0987654321,Siti Aminah,Tidak Lulus
